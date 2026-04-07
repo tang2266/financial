@@ -1,7 +1,7 @@
-const CACHE_NAME = 'math-finance-v1';
+const CACHE_NAME = 'math-finance-v2';
 const urlsToCache = [
   './',
-  './Index.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
